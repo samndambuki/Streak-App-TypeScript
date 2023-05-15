@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.habit-container {
+  margin-bottom: 20px;
+}
+
+.habit {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.habit h3 {
+  margin: 0;
+}
+
+.habit p {
+  margin: 0;
+}
